@@ -1,0 +1,33 @@
+{
+  "name": "node-crawler",
+  "version": "1.0.0",
+  "description": "node,nodejs,crawler",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "cheerio": "^0.22.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.11.1"
+  },
+  "scripts": {
+    "test": "",
+    "lint": "eslint config.js; exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cunshuifengyun/node-crawler.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "javascript",
+    "crawler"
+  ],
+  "author": "cunshuifengyun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cunshuifengyun/node-crawler/issues"
+  },
+  "homepage": "https://github.com/cunshuifengyun/node-crawler#readme"
+}
